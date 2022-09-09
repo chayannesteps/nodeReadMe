@@ -28,11 +28,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## Credits/Creator
 The creator of this project was Chayanne Stephen, with the help of some instructors. My email is $email and my github account is $github
 
-
 ## License
 
-The license that this project uses is $
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+The license that this project uses is
 
 ---
 

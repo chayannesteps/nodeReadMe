@@ -31,9 +31,10 @@ message: 'What is your github username?'
     message: 'What was the movtivation you had to make this project?'
 },
 {
-    type: 'input',
+    type: 'list',
     name: 'license',
-    message: 'What is the name of the license you are using?'
+    message: 'Enter the name of your license here:',
+    choices: license
 },
 {
     type: 'input',
@@ -58,6 +59,3 @@ function init() {
 // Function call to initialize app
 init();
 
-// questions = [{name: 'Mlemke24'}, {email: 'mattrlemke@gmail.com}, ]
-
-// questions.name
