@@ -19,14 +19,26 @@ message: 'What is your github username?'
     type: 'input',
     name: 'title',
     message: 'What is the title of your project?'
-},{
+},
+{
     type: 'input',
-    name: 'email',
-    message: 'What is your email address?'
-},{
-    type: 'list',
+    name: 'description',
+    message: 'What does your project do?'
+},
+{
+    type: 'input',
+    name: 'motivation',
+    message: 'What was the movtivation you had to make this project?'
+},
+{
+    type: 'input',
     name: 'license',
     message: 'What is the name of the license you are using?'
+},
+{
+    type: 'input',
+    name: 'usage',
+    message: 'How do you use this project?'
 },
 ];
 
